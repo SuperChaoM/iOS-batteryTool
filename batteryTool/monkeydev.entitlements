@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.backboardd.launchapplications</key>
+	<true/>
+	<key>com.apple.springboard.openapplications</key>
+	<true/>
+	<key>com.apple.private.mobileinstall.allowedSPI</key>
+	<array>
+		<string>UninstallForLaunchServices</string>
+		<string>InstallForLaunchServices</string>
+		<string>CheckCapabilitiesMatch</string>
+		<string>Archive</string>
+		<string>RemoveSrchive</string>
+		<string>Uninstall</string>
+		<string>Browse</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
+	<key>com.apple.springboard.launchapplications</key>
+	<true/>
+	<key>com.apple.companionappd.connect.allow</key>
+	<true/>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.private.tcc.manager</key>
+	<true/>
+	<key>com.apple.private.security.storage.TCC</key>
+	<true/>
+</dict>
+</plist>
